@@ -48,7 +48,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
       alt="vue" width="40" height="40" /> </a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"
       alt="laravel" width="40" height="40" /> </a>
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg"
@@ -78,12 +78,3 @@
 
 <br>
 
-<h3>📊 GitHub Stats:</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JerrysonDerraco&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="top-langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JerrysonDerraco&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
-    alt="github-stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JerrysonDerraco&theme=dark&background=0d1117" alt="streak-stats" /></p>
