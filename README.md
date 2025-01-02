@@ -20,7 +20,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://chindc13.github.io/website/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
+      src="https://www.svgrepo.com/show/8155/internet.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
