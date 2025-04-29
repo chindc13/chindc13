@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerryson Derraco</h1>
-<h3 align="center">Lead PHP Developer | Specializing in High-Performance Web Applications | Laravel & Symfony Expert</h3>
+<h3 align="center">PHP Developer | Specializing in High-Performance Web Applications | Laravel & Symfony Expert</h3>
 
 <br>
 
